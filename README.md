@@ -32,7 +32,7 @@ Deep-Learning/
 - **ANN_From_Scratch.ipynb**  
   Artificial Neural network built from scratch.
 
-- **ImageSegmentationChestCT_Pe.ipynb**  
+- **ImageSegmentationChestCT_PetImagesClassification.ipynb**  
   Chest CT segmentation and PET image classification.
 
 - **RNN(LSTM_CONVLSTM)_Mnist.ipynb**  
